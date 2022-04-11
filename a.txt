@@ -1,6 +1,7 @@
 aaaa
 a
 commit チュートリアル
+pull aaaaaa
 a
 a
 bbbbbbbbb
